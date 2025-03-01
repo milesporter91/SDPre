@@ -19,6 +19,7 @@ public class Objective5Lab3 {
 		}
 
 		// else { System.out.println("The number is zero") } would have the same effect as lines 17-18, correct?
-	
+		
+		scanner.close();
 	}
 }
